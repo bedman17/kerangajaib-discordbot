@@ -1,0 +1,23 @@
+{
+  "name": "kerangajaib-discordbot",
+  "version": "1.0.0",
+  "description": "Sebuah bot discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bedman17/kerangajaib-discordbot.git"
+  },
+  "author": "bedman17",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bedman17/kerangajaib-discordbot/issues"
+  },
+  "homepage": "https://github.com/bedman17/kerangajaib-discordbot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "quick.db": "^6.3.2"
+  }
+}
